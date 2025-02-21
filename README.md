@@ -2,11 +2,11 @@
 <p>I am Senior Full-stack Developer with over 12 years of experience developing and delivering high-quality software solutions, who specializes in CMS, e-commerce and web applications.</p>
 <br />
 <p>
-- 🔭 I’m currently working on [CIQRA e-commerce project.](https://www.ciqra.com)
+- 🔭 I’m currently working on <a href="https://www.ciqra.com" target="_blank" rel="nofollow">CIQRA</a>
 
 - 🌱 I’m currently learning **React.js and React Native.**
 
-- 👨‍💻 All of my projects are available at [http://www.aliketan.com](http://www.aliketan.com)
+- 👨‍💻 All of my projects are available at <a href="http://www.aliketan.com" target="_blank" rel="nofollow">aliketan.com</a>
 
 - 💬 Ask me about **back-end and front-end technologies.**
 
