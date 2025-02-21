@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Ali Şafak Ketan 👋</h1>
 <p>I am Senior Full-stack Developer with over 12 years of experience developing and delivering high-quality software solutions, who specializes in CMS, e-commerce and web applications.</p>
 <br />
+
 - 🔭 I’m currently working on <a href="https://www.ciqra.com" target="_blank" rel="nofollow">CIQRA</a>
 
 - 🌱 I’m currently learning **React.js and React Native.**
