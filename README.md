@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aliketan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliketan" height="30" width="40" /></a>
 <a href="https://instagram.com/aliketan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliketan" height="30" width="40" /></a>
+<a href="http://aliketan.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/world.svg" alt="aliketan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Front-end:</h3>
