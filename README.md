@@ -56,10 +56,10 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 <br />
-<div>
+<!--<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliketan&show_icons=true&locale=en&layout=compact" alt="aliketan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliketan&show_icons=true&locale=en" alt="aliketan" /></p>
-</div>
+</div>-->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aliketan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aliketan" /></a></p>
 
