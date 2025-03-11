@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.ciqra.com" target="_blank" rel="nofollow">CIQRA</a>
 
-- 🌱 I’m currently learning **React.js and React Native.**
+- 🌱 I’m currently learning **Python, R and ML.**
 
 - 👨‍💻 All of my projects are available at <a href="http://www.aliketan.com" target="_blank" rel="nofollow">aliketan.com</a>
 
