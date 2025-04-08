@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Ali Şafak Ketan 👋</h1>
 <p>I am Senior Full-stack Developer with over 12 years of experience developing and delivering high-quality software solutions, who specializes in CMS, e-commerce and web applications.</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliketan&label=Profile%20views&color=0e75b6&style=flat" alt="aliketan" /> </p>
 
 - 🔭 I’m currently working on <a href="https://www.ciqra.com" target="_blank" rel="nofollow">CIQRA</a>
 
@@ -62,4 +63,9 @@
 </div>-->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aliketan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aliketan" /></a></p>
+<br /><br />
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliketan&show_icons=true&locale=en&layout=compact" alt="aliketan" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliketan&show_icons=true&locale=en" alt="aliketan" /></p>
+</div>
