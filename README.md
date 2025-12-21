@@ -38,9 +38,9 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/rabbitmq-logo.svg" alt="rabbitMQ" width="40" height="40"/> </a>
+<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/elasticsearch-logo.svg" alt="elasticsearch" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Mobile Development:</h3>
@@ -56,9 +56,9 @@
 
 <h3 align="left">Development Tools:</h3>
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/git-logo.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/postman-logo.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Design Tools:</h3>
 <p align="left">
