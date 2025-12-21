@@ -43,7 +43,7 @@
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/elasticsearch-logo.svg" alt="elasticsearch" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Mobile Development:</h3>
+<h3 align="left">Mobile:</h3>
 <p align="left">
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/react-original-wordmark.svg" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/redux-logo.svg" alt="redux" width="40" height="40"/> </a>
