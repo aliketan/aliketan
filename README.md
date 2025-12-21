@@ -45,11 +45,12 @@
 
 <h3 align="left">Mobile Development:</h3>
 <p align="left">
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/react-original.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/zustand-logo.png" alt="zustand" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/react-original-wordmark.svg" alt="reactnative" width="40" height="40"/> </a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/redux-logo.svg" alt="redux" width="40" height="40"/> </a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/zustand-logo.svg" alt="zustand" width="40" height="40"/> </a>
 <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/tanstack-query-logo.svg" alt="tanstackquery" width="40" height="40"/> </a>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/tailwindcss-icon.svg" alt="gluestack" width="40" height="40"/> </a>
 <a href="https://gluestack.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/gluestack-logo.png" alt="gluestack" width="40" height="40"/> </a>
 <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/material-ui.svg" alt="gluestack" width="40" height="40"/> </a>
 </p>
@@ -63,7 +64,7 @@
 <h3 align="left">Design Tools:</h3>
 <p align="left">
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/aliketan/aliketan/refs/heads/main/assets/figma-logo.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 <br />
 <h3 align="left">Support:</h3>
