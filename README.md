@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ali Şafak Ketan 👋</h1>
-<p>I am a Senior Full-stack .NET Developer with over 12 years of experience developing and delivering high-quality, scalable and secure enterprise solutions using C#, ASP.NET MVC, .NET Core, Web API, RESTful, Modular Monolith and Microservices.</p>
+<p>I am a Senior Software Developer with over 12 years of experience developing and delivering high-quality, scalable and secure enterprise solutions using C#, ASP.NET MVC, .NET Core, Web API, RESTful, Modular Monolith and Microservices.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliketan&label=Profile%20views&color=0e75b6&style=flat" alt="aliketan" /> </p>
 
